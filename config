@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/team4069/frc-scouting
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gui]
+	wmstate = zoomed
+	geometry = 1322x693+114+114 254 315
